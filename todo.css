@@ -1,0 +1,49 @@
+#todo{
+    width: 80%;
+    margin-left: 10%
+}
+.page-header{
+     text-align: center
+}
+
+#del{
+    margin-bottom: 5px;
+}
+#llll{
+    text-align: center;
+    margin-top: 10px;
+    display: none
+}
+.sav{
+    display: flex;
+
+}
+.done{
+    margin-right: 30px
+}
+#savee{
+    margin: auto;
+}
+.list-group-item{
+    margin-right: 10px;
+    margin-left: 0;
+}
+.flex{
+    display: flex;
+}
+#buttonn{
+ margin: auto;
+}
+
+@media(max-width:600px){
+    #button{
+        margin: 10px 0;
+        margin-left: 40%;
+
+        
+    }
+    .lkk{
+        margin-left: 10%
+    }
+     
+}
